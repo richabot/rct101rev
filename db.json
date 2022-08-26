@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "name": "hi",
+      "height": "kk",
+      "weight": "e",
+      "power": 6,
+      "id": 1
+    },
+    {
+      "name": "richa",
+      "height": "shah",
+      "weight": "e",
+      "power": 8,
+      "id": 2
+    },
+    {
+      "name": "riya",
+      "height": "shha",
+      "weight": "55",
+      "power": 9,
+      "id": 3
+    },
+    {
+      "name": "riyas",
+      "height": "s",
+      "power": 100,
+      "id": 4
+    },
+    {
+      "name": "m",
+      "id": 5,
+      "power": 9
+    },
+    {
+      "name": "sim",
+      "height": "s",
+      "id": 6,
+      "power": 11
+    },
+    {
+      "name": "ro",
+      "id": 7
+    },
+    {
+      "name": "rhj",
+      "height": "s",
+      "weight": "6",
+      "power": "7",
+      "id": 8
+    }
+    
+  ]
+}
